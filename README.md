@@ -1,2 +1,2 @@
-# minerProxy
+# 介绍minerProxy
 MinerProxy/矿池代理，在本地或者vps服务器上安装矿池代理，集中管理矿机，可以统一钱包地址和矿机，集中反抽水（后续版本提供），支持TCP和SSL方式连接,go语言编写,性能极高。
